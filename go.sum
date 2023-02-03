@@ -1,0 +1,4 @@
+github.com/caarlos0/env/v7 v7.0.0 h1:cyczlTd/zREwSr9ch/mwaDl7Hse7kJuUY8hvHfXu5WI=
+github.com/caarlos0/env/v7 v7.0.0/go.mod h1:LPPWniDUq4JaO6Q41vtlyikhMknqymCLBw0eX4dcH1E=
+github.com/modfin/henry v0.0.0-20220425073158-37972c80b10d h1:SzKyQGq3V2NhAaMaIIA8mGbq1vF1+YRKlICnouhqnyY=
+github.com/modfin/henry v0.0.0-20220425073158-37972c80b10d/go.mod h1:i8Fu1UVoYV8cHZ3mIjIXqcJBLVyuEE8pek/1UuO8PnU=
